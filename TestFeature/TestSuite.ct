@@ -1,0 +1,24 @@
+testfeature TestFeature defaulttestlist;
+
+testsuite TestSuite {
+	testcase testCase8 {
+		config {
+			testlistcomment ""
+			description "122"
+			requirementids "1"
+			rbenvironment "DCOMSIM"
+		}
+		sequence {
+		}
+	}
+	testcase testCase8_clone {
+		config {
+			testlistcomment ""
+			description "122"
+			requirementids "1"
+			rbenvironment "DCOMSIM"
+		}
+		sequence {
+		}
+	}
+}

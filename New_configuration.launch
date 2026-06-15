@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.bosch.eet.ct.codegen.ui.CGenLauncher">
+    <stringAttribute key="com.bosch.eet.ct.codegen.CProjectName" value="${project_name}_CGen"/>
+    <booleanAttribute key="com.bosch.eet.ct.codegen.GenerateAllTestCases" value="true"/>
+    <booleanAttribute key="com.bosch.eet.ct.codegen.GenerateAsCProject" value="true"/>
+    <booleanAttribute key="com.bosch.eet.ct.codegen.GenerateCCode" value="true"/>
+    <booleanAttribute key="com.bosch.eet.ct.codegen.GenerateTestList" value="true"/>
+    <stringAttribute key="com.bosch.eet.ct.codegen.OutputPath" value=""/>
+    <stringAttribute key="com.bosch.eet.ct.codegen.ProjectName" value="TestProject"/>
+    <listAttribute key="com.bosch.eet.ct.codegen.SelectedTestCases"/>
+    <booleanAttribute key="org.eclipse.debug.core.ATTR_FORCE_SYSTEM_CONSOLE_ENCODING" value="false"/>
+</launchConfiguration>
