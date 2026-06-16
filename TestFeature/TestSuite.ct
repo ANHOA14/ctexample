@@ -16,7 +16,7 @@ testsuite TestSuite {
 			testlistcomment ""
 			description "122"
 			requirementids "1"
-			rbenvironment "DCOMSIM"
+			rbenvironment "DCOMSIM11"
 		}
 		sequence {
 		}
