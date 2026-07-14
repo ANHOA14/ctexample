@@ -1,0 +1,16 @@
+testfeature test defaulttestlist;
+
+testsuite File1 {
+	testcase testCase {
+		config {
+			testlistcomment ""
+			description ""
+			requirementids ""
+			rbenvironment "DCOMSIM"
+		}
+		sequence {
+		}
+	}
+}
+
+
