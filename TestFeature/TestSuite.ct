@@ -1,7 +1,7 @@
 testfeature TestFeature defaulttestlist;
 
 testsuite TestSuite {
-	testcase testCase {
+	testcase testCase1 {
 		config {
 			testlistcomment ""
 			description "2"
